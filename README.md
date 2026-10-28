@@ -9,19 +9,18 @@ The E-Commerce Sales Dashboard is developed using Power BI to analyze sales reve
 - DAX
 
 ## Key Performance Indicators (KPIs)
-- **Total Revenue**
-- **Total Profit**
-- **Total Orders** 
-- **Profit Margin**
+- Total Revenue
+- Total Profit
+- Total Orders 
+- Profit Margin
 
 ## Dashboard Features
-
-### 1. Sales Trend Analysis
-### 2. Sales by Place
-### 3. Share of Total
-### 4. Sales by City
-### 5. Detailed Records
-### 6. Interactive Filters
+- Sales Trend Analysis
+- Sales by Place
+- Share of Total
+- Sales by City
+- Detailed Records
+- Interactive Filters
 
 These filters help users explore sales data based on their selected requirements.
 
